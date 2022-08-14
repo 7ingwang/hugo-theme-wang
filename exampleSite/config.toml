@@ -1,6 +1,6 @@
 baseURL       = "http://terry.wang/"
 languageCode  = "en-us"
-title         = "Terry Wang"
+title         = "TERRY WANG"
 theme         = "wang"
 summarylength = 25
 
@@ -23,7 +23,7 @@ summarylength = 25
 # Site Params
 [params]
   logo = "images/logo.png"
-  dateFormat = "26 FEB 1994"
+  dateFormat = "24 FEB 1982"
   # Meta data
   description = "Roxo Hugo themes | Design Agency Template by StaticMania"
   author = "StaticMania"
@@ -32,21 +32,6 @@ summarylength = 25
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/myykjpje"
 
-  # Contact Form
-  [params.contactForm]
-    placeholder_first_name        = "First Name"
-    placeholder_last_name         = "Last Name"
-    placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
-    send_message                  = "Send Message"
-
-    [[params.contactForm.projectType]]
-      value = "gd"
-      title  = "Graphics Design"
-    [[params.contactForm.projectType]]
-      value = "wd"
-      title  = "Web Design"
 
   # Navbar Action Button
   [params.navAction]
@@ -58,28 +43,34 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    # background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
-    primary_button        = "See Our Works"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
+    background_image    = ""
+    heading               = "理清问题，保持统一性，富有创意，爱我们的用户，以极致体验为目标"
+    tagline               = "WORK HARD, PLAY HARD"
+    profile               = "我是王珽，UX/UI 设计师"
+    primary_button        = "我的简历"
+    primary_button_url    = "about"
+    secondary_button      = "联系我"
     secondary_button_url  = "contact"
 
-  [params.portfolio]
+  [params.showcase]
     enable    = true
-    title     = "OUR RECENT WORKS"
+    title     = "作品展示"
     subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+
 
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
-    primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+
+
+  [params.page404]
+    enable              = true
+    icon                = "images/peep.gif"
+    title               = "404"
+    subtitle            = "Page not found"
 
   [params.footer]
-    years = "2019-2021"
-    copyright = "Copyright 2019-2021 Terry.Wang All Rights Reserved."
+    background_image    = ""
+    years = "2019-2022"
+    copyright = "Copyright 2019-2022 Terry.Wang All Rights Reserved."

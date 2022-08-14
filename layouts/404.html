@@ -1,6 +1,19 @@
 {{define "main"}}
-<div class="container">
-  <h1>404</h1>
-  <p>Sorry, Page Not Found</p>
-</div>
+<section class="site-404">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{ with .Site.Params.page404 }}
+          {{ if .enable }}
+          <div class="section-title text-center">
+            <img class="icon" src="{{ .icon }}" alt="Sorry" />
+            <h1>{{ .title }}</h1>
+            <p>{{ .subtitle }}</p>
+          </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
 {{ end }}

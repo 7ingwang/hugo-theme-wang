@@ -1,6 +1,10 @@
 .site-footer{
-  background: $secondary-color;
-  padding: 100px 0;
+  padding: 80px 0;
+  background: $secondary-color center center;
+  background-size: cover;
+  .site-copyright{
+
+  }
   &-logo{
     margin-bottom: 50px;
     @include mobile{
