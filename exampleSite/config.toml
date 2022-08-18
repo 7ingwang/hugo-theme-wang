@@ -29,8 +29,6 @@ summarylength = 25
   author = "StaticMania"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
-  # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://formspree.io/myykjpje"
 
 
   # Navbar Action Button
@@ -43,7 +41,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image    = ""
+    background_image    = "images/"
     heading               = "理清问题，保持统一性，富有创意，爱我们的用户，以极致体验为目标"
     tagline               = "WORK HARD, PLAY HARD"
     profile               = "我是王珽，UX/UI 设计师"
@@ -55,7 +53,7 @@ summarylength = 25
   [params.showcase]
     enable    = true
     title     = "作品展示"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    subtitle  = "清醒认知，清楚目标，路径清晰，倾心设计，打造清爽体验"
 
 
   [params.call_to_action]
@@ -69,6 +67,11 @@ summarylength = 25
     icon                = "images/peep.gif"
     title               = "404"
     subtitle            = "Page not found"
+
+  [params.portfolio]
+  enable    = true
+  title     = "<span>清醒</span>认知，<span>清楚</span>目标，路径<span>清晰</span>，<span>倾心</span>设计，打造<span>清爽</span>体验"
+  subtitle  = ""
 
   [params.footer]
     background_image    = ""
