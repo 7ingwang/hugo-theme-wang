@@ -34,7 +34,7 @@ project_images: []
 ## 设计过程
 1. **前期调研**
 与甲方产品人员探讨场景与可行性方案
-![草图](/images/projects/HH/draft.png)
+![草图](/images/projects/HH/HH_draft.png)
 
 2. **攻克难点**
 理清管网路径与点位排布是关键与难点
