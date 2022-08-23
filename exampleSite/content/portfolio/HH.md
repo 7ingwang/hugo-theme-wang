@@ -1,16 +1,16 @@
 ---
-title: "宏兴钢铁水处理中心管网平台"
-subtitle: "实时数据可视化监测大屏"
+title: "GreatSQL 社区全新改版"
+subtitle: "论坛问答，互动学习，共赴开源"
 date: 2022-08-16T15:58:10+06:00
 type: portfolio
 pin: showcase
 image: "images/projects/project-thumb-HH.png"
-category: ["UX","UI"]
+category: ["UX"]
 project_images: []
 ---
-时间线 | 角色 | 工具
--- | -- | --
-2020.05-2020.08 | UX/UI 设计师 | Sketch、Principle
+时间线 | 角色 | 平台 | 工具
+-- | -- | -- | --
+2020.05-2020.08 | UX/UI 设计师 | 大屏 | Sketch、Principle
 
 ## 项目背景
 企业水处理中心可视化大屏，不仅能让虚拟巡检代替人工巡检，解决巡线距离长、步行巡线效率慢等缺点，它作为污水处理厂可视化管理的重要一环，还能对每日污水处理量、水中油、浊度、PH值等水质监测数据及报警信息等实时监测。同时，能清晰展示接入污水处理中心的各企业排口及污水管网运行的实时状况。大幅提升生产管理效率，助企业实现监测智能化、数据可视化、决策科学化。
@@ -47,13 +47,11 @@ project_images: []
 ![初稿](/images/projects/HH/HH_1080p.png)
 ![定稿线框图](/images/projects/HH/HH_HD_home_wireframe.png)
 
-### 色彩方案
-![色彩](/images/projects/HH/HH_HD_colors.png)
-
-<!-- ### 删格布局 -->
-
 ### 图标
-![图标](/images/projects/HH/HH_HD_icons.png)
+![图标](/images/projects/HH/HH_HD_Icons.png)
+
+### 色彩方案
+![色彩](/images/projects/HH/HH_Colors.png)
 
 ### 动效
 ![定稿线框图](/images/projects/HH/HH_HD_home_flow.gif)
@@ -63,7 +61,7 @@ project_images: []
 ![可视化数据对比](/images/projects/HH/HH_HD_chart_compare.png)
 
 ## 上线评价
+“管网结构排布清晰，数据阅读直观，水流动效恰到好处，达到规划目标，后期持续迭代优化。”
 
 ## 复盘总结
-
-
+由于疫情影响，未能到企业现场体验大屏工作场景，仅靠远程视频会议完成沟通。应该到企业一线亲身体验用户场景，近距离访谈用户，收集问题与痛点。让用户进入到真实使用场景，做可用性测试。
