@@ -1,11 +1,11 @@
 ---
-title: "GreatSQL 社区全新改版"
-subtitle: "论坛问答，互动学习，共赴开源"
+title: "宏兴钢铁水处理中心官网平台"
+subtitle: "可视化大屏监控系统"
 date: 2022-08-16T15:58:10+06:00
 type: portfolio
 pin: showcase
 image: "images/projects/project-thumb-HH.png"
-category: ["UX"]
+category: ["UX","UI"]
 project_images: []
 ---
 时间线 | 角色 | 平台 | 工具

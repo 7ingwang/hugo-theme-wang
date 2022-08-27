@@ -5,9 +5,12 @@
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-  {{ with .Site.Params.author }}
-  <meta name="author" content="{{ . }}">
+  {{ with .Site.Params }}
+  <meta name="author" content="{{ .author }}">
+  <meta name="description" content="{{ .description }}">
+  <meta name="keywords" content="{{ .keywords }}">
   {{ end }}
+
   {{ hugo.Generator }}
 
   {{ "<!-- Bootstrap -->" | safeHTML }}
@@ -29,9 +32,9 @@
     (function() {
       var hm = document.createElement("script");
       hm.src = "https://hm.baidu.com/hm.js?cbbe3b6242bdb136ba214f2d10669dc5";
-      var s = document.getElementsByTagName("script")[0]; 
+      var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
-    
+
 </head>

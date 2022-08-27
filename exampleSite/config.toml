@@ -7,59 +7,61 @@ summarylength = 25
 # Site Menus
 [menu]
   # Navbar Menus
+
+
   [[menu.nav]]
-    name    = "简历"
+    name    = "关于我"
     url     = "about"
     weight  = 1
+
   [[menu.nav]]
-    name    = "作品"
-    url     = "portfolio"
-    weight  = 2
+  name    = "联系我"
+  url     = "contact"
+  weight  = 2
+
+
   [[menu.nav]]
-    name    = "联系我"
-    url     = "contact"
+    name    = "简历"
+    url     = "#project"
     weight  = 3
 
 # Site Params
 [params]
   logo = "images/logo.png"
   dateFormat = "24 FEB 1982"
+
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
+  description = "Design Template by TerryWang"
+  keywords = "Portfolio, UX, UI, Design, 设计, 用户体验, 作品集"
+  author = "TerryWang"
+
   # Google Analitycs
   googleAnalitycsID = "Your ID"
-
-
-  # Navbar Action Button
-  [params.navAction]
-    status  = true
-    name    = "Get in touch"
-    url     = "contact"
 
 
   # Banner Section
   [params.banner]
     enable                = true
     background_image    = "images/"
-    heading               = "理清问题，保持统一性，富有创意，爱我们的用户，以极致体验为目标"
+    heading               = "<span>理清</span>问题，保持<span>统一性</span>，富有<span>创意</span>，  爱我们的用户，带给他们<span>美好体验</span>"
     tagline               = "WORK HARD, PLAY HARD"
-    profile               = "我是王珽，UX/UI 设计师"
-    primary_button        = "我的简历"
-    primary_button_url    = "about"
-    secondary_button      = "联系我"
-    secondary_button_url  = "contact"
+    profile               = "我是王珽，UX / UI 设计师"
+    primary_button        = "联系我"
+    primary_button_url    = "#get-in-touch"
+    secondary_button      = "简历"
+    secondary_button_url  = "about"
+
 
   [params.showcase]
     enable    = true
-    title     = "作品展示"
-    subtitle  = "清醒认知，清楚目标，路径清晰，倾心设计，打造清爽体验"
+    title     = "作品"
 
 
-  [params.call_to_action]
-    enable              = true
-    background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
+  [params.get_in_touch]
+    enable    = true
+    image     = "images/terry.wechat.svg"
+    title     = "联系我"
+    subtitle  = "LET’S WORK TOGETHER"
 
 
   [params.page404]
@@ -74,6 +76,5 @@ summarylength = 25
   subtitle  = ""
 
   [params.footer]
-    background_image    = ""
     years = "2019-2022"
-    copyright = "Copyright 2019-2022 Terry.Wang All Rights Reserved."
+    copyright = " by Terry Wang."

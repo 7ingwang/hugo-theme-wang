@@ -4,7 +4,7 @@ date: 2022-07-23T15:58:10+06:00
 type: portfolio
 pin: showcase
 image: "images/projects/project-thumb-zjfx.png"
-category: ["UI"]
+category: ["UI","Web 前端"]
 project_images: []
 ---
 时间线 | 角色 | 平台 | 工具
