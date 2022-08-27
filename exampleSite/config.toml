@@ -1,6 +1,6 @@
 baseURL       = "http://terry.wang/"
 languageCode  = "en-us"
-title         = "TERRY WANG"
+title         = "Terry Wang"
 theme         = "wang"
 summarylength = 25
 
@@ -9,14 +9,14 @@ summarylength = 25
   # Navbar Menus
 
   [[menu.nav]]
-    name    = "关于我"
+    name    = "ABOUT"
     url     = "about"
     weight  = 1
 
 
   [[menu.nav]]
-    name    = "简历"
-    url     = "#project"
+    name    = "RESUME"
+    url     = "/images/terry.resume.pdf"
     weight  = 2
 
 # Site Params
@@ -26,9 +26,9 @@ summarylength = 25
   dateFormat = "24 FEB 1982"
 
   # Meta data
-  description = "Design Template by TerryWang"
+  description = "Created by Terry Wang"
   keywords = "Portfolio, UX, UI, Design, 设计, 用户体验, 作品集"
-  author = "TerryWang"
+  author = "Terry Wang"
 
   # Google Analitycs
   googleAnalitycsID = "Your ID"
@@ -61,7 +61,7 @@ summarylength = 25
 
   [params.page404]
     enable              = true
-    icon                = "images/peep.gif"
+    icon                = "images/terry.peep.gif"
     title               = "404"
     subtitle            = "Page not found"
 
