@@ -6,6 +6,9 @@
 <path d="M28.3949 72.3566C28.3949 72.3566 12.1401 134.996 18.4587 150.961C18.4587 150.961 29.8143 24.9922 131.055 72.3566C151.705 62.3907 195.215 67.0833 220.743 88.7907C233.121 95.4832 238 156 238 156L234.215 82.4341L212 45L168.5 19L131.055 11L96 19L50 45L28.3949 72.3566Z" fill="#333333" stroke="#333333" stroke-width="20"/>
 <path d="M243 193H261L255 254" stroke="#333333" stroke-width="10"/>
 <path d="M24 193H6L12 254" stroke="#333333" stroke-width="10"/>
-<circle cx="83" cy="175" r="8" fill="#333333"/>
-<circle cx="178" cy="175" r="8" fill="#333333"/>
+<g>
+  <circle cx="83" cy="180" r="8" fill="#333333"/>
+  <circle cx="178" cy="180" r="8" fill="#333333"/>
+  <animateMotion path="M 0 0 H -15 H 15 Z" begin="0s" dur="3s" retate="auto" repeatCount="indefinite" />
+</g>
 </svg>
