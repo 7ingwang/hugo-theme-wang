@@ -1,17 +1,14 @@
-.site-cta{
-  padding: 80px 0 40px;
+.site-git{
+  padding: 80px 0;
   background-size: cover;
   background-position: center center;
   @include desktop{
     padding: 100px 0;
   }
   &-title{
-    font-size: 70px;
-    font-weight: 700;
-    letter-spacing: 10px;
-    margin-bottom: 60px;
+    font-size: 54px;
+    margin-bottom: 40px;
     @include desktop{
-      letter-spacing: 5px;
     }
     @include desktop-lg{
       font-size: 50px;

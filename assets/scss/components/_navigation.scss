@@ -31,13 +31,13 @@
     }
     .nav-link{
       font-family: $secondary-font;
-      color: $text-color;
+      color: $text-color-dark;
       transition: all .3s ease;
       padding: 15px 18px;
       position: relative;
     }
     .active{
-      color: $text-color-dark;
+      color: $text-color;
     }
   }
   .navbar-toggler{

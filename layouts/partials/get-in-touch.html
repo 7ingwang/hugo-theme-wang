@@ -1,10 +1,10 @@
 {{ with .Site.Params.get_in_touch }}
   {{ if .enable }}
-  <section class="site-cta" id="get-in-touch">
+  <section class="site-git" id="get-in-touch">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h1>{{ .title }}</h1>
+          <h1 class="site-git-title">{{ .title }}</h1>
           <img src="{{ .image | absURL }}" alt="{{ .title }}">
         </div>
       </div>

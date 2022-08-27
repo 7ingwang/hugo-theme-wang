@@ -66,6 +66,9 @@
   &:hover{
     background: darken($color: $primary-color, $amount: 10);
   }
+  &:active{
+    background-color: $primary-color !important;
+  }
 }
 
 .btn-secondary{

@@ -8,26 +8,21 @@ summarylength = 25
 [menu]
   # Navbar Menus
 
-
   [[menu.nav]]
     name    = "关于我"
     url     = "about"
     weight  = 1
 
-  [[menu.nav]]
-  name    = "联系我"
-  url     = "contact"
-  weight  = 2
-
 
   [[menu.nav]]
     name    = "简历"
     url     = "#project"
-    weight  = 3
+    weight  = 2
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/logo.svg"
+  favicon ="images/favicon.png"
   dateFormat = "24 FEB 1982"
 
   # Meta data
@@ -43,7 +38,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image    = "images/"
-    heading               = "<span>理清</span>问题，保持<span>统一性</span>，富有<span>创意</span>，  爱我们的用户，带给他们<span>美好体验</span>"
+    heading               = "<span>理清</span>问题，保持<span>统一性</span>，富有<span>创意</span>， 爱我们的用户，带给他们<span>美好体验</span>"
     tagline               = "WORK HARD, PLAY HARD"
     profile               = "我是王珽，UX / UI 设计师"
     primary_button        = "联系我"
@@ -77,4 +72,4 @@ summarylength = 25
 
   [params.footer]
     years = "2019-2022"
-    copyright = " by Terry Wang."
+    copyright = " Terry Wang."
