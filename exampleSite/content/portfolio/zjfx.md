@@ -37,11 +37,10 @@ project_images: []
 ![Colors](/images/projects/ZJFX/ZJFX_Colors.png)
 
 ## 图标
-![Text](/images/projects/ZJFX/ZJFX_Icons.png)
+![Icons](/images/projects/ZJFX/ZJFX_Icons.png)
 
 ## 文字
 ![Text](/images/projects/ZJFX/ZJFX_Text.png)
-
 ## 登录
 ![Login](/images/projects/ZJFX/ZJFX_login.png)
 

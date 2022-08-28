@@ -71,5 +71,5 @@ summarylength = 25
   subtitle  = ""
 
   [params.footer]
-    years = "2019-2022"
-    copyright = " Terry Wang."
+    years = "2019-2022 "
+    copyright = "All rights reserved by Terry Wang."
