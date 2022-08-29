@@ -61,7 +61,7 @@ summarylength = 25
 
   [params.page404]
     enable              = true
-    icon                = "images/terry.peep.gif"
+    icon                = "images/peep.gif"
     title               = "404"
     subtitle            = "Page not found"
 

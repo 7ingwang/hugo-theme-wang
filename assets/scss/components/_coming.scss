@@ -1,0 +1,13 @@
+.site-coming{
+  height: 100vh;
+  &-icon{
+    img{
+      width: 120px;
+      height: 120px;
+    }
+  }
+  @include mobile{
+
+  }
+
+}

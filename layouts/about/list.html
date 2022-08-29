@@ -9,12 +9,21 @@
             <img src="{{ .Params.photo }}" alt="{{ .Params.name }}" />
           </div>
           <div class="site-about-description">
-            <h1>
-              {{ .Params.heading }}
+            {{ with .Site.Data.about }}
+            {{ if .enable }}
+            <h1 class="heading">
+              {{ .heading | safeHTML }}
             </h1>
-            <p>
-              {{ .Description }}
-            </p>
+            <h2 class="subheading">
+              {{ .subheading | safeHTML }}
+            </h2>
+            <div class="story">
+              {{ range .story }}
+                <p>{{ .section | safeHTML }}</p>
+              {{ end }}
+            </div>
+            {{ end }}
+            {{ end }}
           </div>
 
         </div>

@@ -184,9 +184,24 @@
       }
     }
     h1{
-      font-size: 56px;
+      font-size: 48px;
       font-weight: 500;
       margin-bottom: 16px;
+      @include mobile{
+        font-size: 32px;
+      }
+    }
+    h2{
+      margin: 48px 0 32px;
+      font-size: 32px;
+    }
+    h3{
+      margin: 32px 0 24px;
+      font-size: 24px;
+      color: $text-color-dark;
+    }
+    h4{
+      font-size: 16px;
     }
     &-image{
       img{
@@ -202,9 +217,18 @@
       padding-top: 40px;
       p{
         margin-bottom: 10px;
+        strong{
+          color: $text-color-dark;
+        }
         img{
           max-width: 100%;
           margin-bottom: 30px;
+        }
+      }
+      table{
+        border: 1px solid $gray;
+        th{
+          color: $text-color;
         }
       }
     }
@@ -253,7 +277,6 @@
         }
       }
       img{
-        filter: invert(1);
         transform: rotate(90deg);
         margin-left: 30px;
       }

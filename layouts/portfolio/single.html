@@ -8,9 +8,9 @@
           <h1>
             {{ .Title }}
           </h1>
-          <h4>{{ .Params.subtitle }}</h4>
+          <h3>{{ .Params.subtitle }}</h3>
           <div class="site-project-single-description">
-            {{ .Content }}
+            {{ .Content | safeHTML }}
           </div>
           <div class="site-project-single-image">
             {{ range .Params.project_images }}
@@ -21,8 +21,8 @@
           <div class="site-project-single-action">
             <a href="{{.NextInSection.Permalink}}">
               <span class="link-area">
-                <span data-text="Next Project">
-                  Next Project
+                <span data-text="Next">
+                  Next
                 </span>
               </span>
               <img src="{{ "images/to-top.svg" | absURL }}" alt="next project">
