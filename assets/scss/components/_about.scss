@@ -18,37 +18,43 @@
     }
   }
   &-photo{
-    width: 40%;
     @include desktop{
-      width: 100%;
       margin-bottom: 20px;
     }
   }
-  &-description{
-    width: 60%;
-    padding-left: 50px;
+  &-story{
+    padding: 0 40px;
     @include desktop{
-      width: 100%;
-      padding: 0 38px;
     }
     @include mobile{
-      padding: 0;
+      text-align: left;
     }
     h1{
       position: relative;
       display: inline-block;
-      margin: 16px 0;
+      margin: 32px 0 16px;
       font-size: 48px;
-      font-weight: bold
     }
     h2{
-      margin-bottom: 24px;
-      font-size: 32px;
+      margin: 32px 0;
+      font-size: 24px;
     }
     p{
-      margin-bottom: 16px;
+      margin: 32px 0;
       font-size: 16px;
       line-height: 2;
+      strong{
+        font-weight: inherit;
+        color: $text-color-dark;
+      }
+    }
+    blockquote{
+      padding-left: 16px;
+      border-left: 5px solid $text-color;
+      p{
+        font-size: 20px;
+        color: $text-color-dark;
+      }
     }
   }
 }
