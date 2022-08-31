@@ -6,7 +6,9 @@
       <div class="col-12">
         <div class="site-about-wrapper">
           <div class="col-lg-4 site-about-photo">
-            <img src="{{ .Params.photo }}" alt="{{ .Params.name }}" />
+            {{ range .Params.photos }}
+            <img src="{{ . | absURL }}" alt="About">
+            {{ end }}
           </div>
           <div class="col-lg-8 site-about-story">
             {{ .Content | safeHTML }}

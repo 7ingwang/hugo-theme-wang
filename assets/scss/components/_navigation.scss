@@ -35,9 +35,17 @@
       transition: all .3s ease;
       padding: 15px 18px;
       position: relative;
+      &:hover{
+        color: $text-color;
+      }
     }
     .active{
-      color: $text-color;
+      &:after{
+        content: "" ;
+        display: block;
+        width: 100%;
+        border-bottom: 1px solid $dark-gray;
+      }
     }
   }
   .navbar-toggler{

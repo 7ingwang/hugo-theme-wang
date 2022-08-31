@@ -18,8 +18,14 @@
     }
   }
   &-photo{
-    @include desktop{
-      margin-bottom: 20px;
+    img+img{
+      margin-top: 24px;
+    }
+    img{
+      transition: all .3s $site-ease;
+    &:hover{
+      transform: rotate(2deg);
+      }
     }
   }
   &-story{
@@ -43,9 +49,15 @@
       margin: 32px 0;
       font-size: 16px;
       line-height: 2;
+      a{
+        display: inline-block;
+        color: $secondary-color;
+      }
+      a+a{ margin-left: 24px;}
       strong{
+        display: inline-block;
         font-weight: inherit;
-        color: $text-color-dark;
+        color: $secondary-color;
       }
     }
     blockquote{
