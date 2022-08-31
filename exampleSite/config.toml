@@ -16,7 +16,7 @@ summarylength = 25
 
   [[menu.nav]]
     name    = "RESUME"
-    url     = "#" #/images/terry.resume.pdf
+    url     = "images/TerryWang-Resume-2022.pdf"
     weight  = 2
 
 # Site Params
