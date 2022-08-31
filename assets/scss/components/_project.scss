@@ -19,7 +19,9 @@
       transition: all .3s $site-ease;
       @include tablet{
         padding: 30px;
-        padding-bottom: 75px;
+        h3{
+          font-size: 24px;
+        }
       }
       span{
         font-family: $secondary-font;

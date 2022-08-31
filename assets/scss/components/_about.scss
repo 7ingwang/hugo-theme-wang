@@ -2,7 +2,7 @@
   &-header{
     padding-top: 80px;
     @include mobile{
-      padding-top: 60px;
+      padding-top: 48px;
       text-align: center;
     }
   }
@@ -16,6 +16,9 @@
     h1{
       margin-bottom: 24px;
     }
+    @include mobile{
+      padding-top: 60px;
+    }
   }
   &-photo{
     img+img{
@@ -27,14 +30,13 @@
       transform: rotate(2deg);
       }
     }
+    @include mobile{
+      padding-left: 0;
+      padding-right: 0;
+    }
   }
   &-story{
     padding: 0 40px;
-    @include desktop{
-    }
-    @include mobile{
-      text-align: left;
-    }
     h1{
       position: relative;
       display: inline-block;
@@ -53,11 +55,13 @@
         display: inline-block;
         color: $secondary-color;
       }
-      a+a{ margin-left: 24px;}
+      a+a{
+        margin-left: 24px;
+      }
       strong{
         display: inline-block;
         font-weight: inherit;
-        color: $secondary-color;
+        color: $primary-color;
       }
     }
     blockquote{
@@ -66,6 +70,14 @@
       p{
         font-size: 20px;
         color: $text-color-dark;
+      }
+    }
+    @include mobile{
+      padding: inherit;
+      text-align: left;
+      h1{
+        margin: 0;
+        font-size: 32px;
       }
     }
   }
