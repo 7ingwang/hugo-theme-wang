@@ -1,11 +1,11 @@
 .site-contact{
-  padding: 150px 0 100px;
-  min-height: 600px;
+  padding: 160px 0;
+  height: 100%;
   @include mobile{
-    padding: 120px 0 100px;
+    padding: 120px 0;
   }
   &-title{
-    font-weight: 700;
+    margin-bottom: 40px;
     @include tablet{
       font-size: 40px;
     }
@@ -13,19 +13,9 @@
       color: $primary-color;
     }
   }
-  &-form{
-    margin-top: 20px;
-    h4{
-      font-weight: 300;
-      text-transform: uppercase;
-      margin-bottom: 50px;
-      letter-spacing: 3px;
-      @include tablet{
-        font-size: 20px;
-      }
-      @include desktop{
-        margin-bottom: 70px;
-      }
+  &-card{
+    @include mobile{
+      width: 160px;
     }
   }
 }

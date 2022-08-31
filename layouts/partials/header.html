@@ -22,13 +22,11 @@
         {{ range $index, $element := $menu }}
           {{ if eq (add $index 1) $len }}
           <li class="nav-item">
-            <a class="nav-link {{ if in $permalink .URL }}active{{ end }}" href="{{ .URL | absURL }}"
-              target="_blank">{{ .Name }}</a>
+            <a class="nav-link {{ if in $permalink .URL }}active{{ end }}" href="{{ .URL | absURL }}">{{ .Name }}</a>
           </li>
           {{ else }}
           <li class="nav-item">
-            <a class="nav-link {{ if in $permalink .URL }}active{{ end }}" href="{{ .URL | absURL }}"
-              >{{ .Name }}</a>
+            <a class="nav-link {{ if in $permalink .URL }}active{{ end }}" href="{{ .URL | absURL }}">{{ .Name }}</a>
           </li>
           {{ end }}
         {{ end }}

@@ -15,11 +15,11 @@ photos: ["images/terry3.jpg", ]
 
 所有过往，兼为序章。
 
-**专注，复盘，放下，向前看**。
+**专注，复盘，放下，向前看——**
 
 ---
 
-我的另外两个站点，了解我更多
+我的另外两个站点，不妨看看
 
 [uedog.com](https://uedog.com) [pixwind.com](https://pixwind.com)
 

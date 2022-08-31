@@ -31,15 +31,16 @@
     }
     .nav-link{
       font-family: $secondary-font;
-      color: $text-color-dark;
+      color: $text-color;
       transition: all .3s ease;
       padding: 15px 18px;
       position: relative;
       &:hover{
-        color: $text-color;
+        color: $text-color-dark;
       }
     }
     .active{
+      color: $text-color-dark;
       &:after{
         content: "" ;
         display: block;
