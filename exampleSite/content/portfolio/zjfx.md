@@ -7,9 +7,19 @@ image: "images/projects/project-thumb-zjfx.png"
 category: ["UI","Web 前端"]
 project_images: []
 ---
-时间线 | 角色 | 平台 | 工具
--- | -- | -- | --
-2021.08 | UI 设计师 | Web | Sketch
+
+>> #### 时间线
+>> 2021.08
+>
+>> #### 我的角色
+>> UI 设计师
+>
+>> #### 平台
+>> Web
+>
+>> #### 工具
+>> Sketch
+
 
 ## 项目背景
 工程造价贯穿整个工程建设的始末，工程造价管理系统直接影响工程建设单位和各施工单位的经济利益。由此凸显出，造价管理分析系统易用性、用户体验的重要性。
@@ -23,8 +33,7 @@ project_images: []
 清晰、高效、愉悦
 
 ## 设计策略
-你要完善，改造，还是重塑？
-> **完善**。
+你要完善，改造，还是重塑？——**完善**。
 
 ## 设计方法
 - 解决整体视觉和品牌差异
@@ -53,7 +62,7 @@ project_images: []
 ## 统计图
 ![Tab](/images/projects/ZJFX/ZJFX_main-tab3.png)
 
-## 表格 Tables
+## 表格
 ![Table](/images/projects/ZJFX/ZJFX_table1.png)
 ![Table](/images/projects/ZJFX/ZJFX_table2.png)
 

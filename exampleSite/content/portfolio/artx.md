@@ -6,11 +6,18 @@ type: portfolio
 pin: showcase
 image: "images/projects/project-thumb-artx.png"
 category: ["UX","UI"]
-project_images: []
 ---
-时间线 | 角色 | 平台 | 工具
--- | -- | -- | --
-2021.09-2020.11 | UX/UI 设计师 | 小程序 | Sketch
+>> #### 时间线
+>> 2021.09 - 2020.11
+>
+>> #### 我的角色
+>> UX / UI 设计师
+>
+>> #### 平台
+>> 小程序
+>
+>> #### 工具
+>> Sketch, XMind
 
 ## 项目背景
 随着艺术品消费需求的日益增长，艺术品电商已成为新兴艺术家的展示平台。加之疫情的影响，对于无法出门的艺术品消费者，通过电商来选择自己钟爱的艺术品，无疑是不错的形式。对艺术品商家而言，电子化经营的成本也相对降低。而电商选择小程序，更具便捷开店、快速裂变、低成本经营等优势。
@@ -31,7 +38,7 @@ project_images: []
 ## 原型展示
 ![购买](/images/projects/ArtX/ArtX_mp_buy.png)
 
-# UI 展示
+## UI 展示
 ![购买](/images/projects/ArtX/ArtX_mp_buy_UI.png)
 
 ## 复盘总结

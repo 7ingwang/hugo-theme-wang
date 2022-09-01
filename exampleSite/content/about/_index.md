@@ -19,8 +19,7 @@ photos: ["images/terry3.jpg", ]
 
 ---
 
-我的另外两个站点，不妨看看
-
+我的另外两个站点：
 [uedog.com](https://uedog.com) [pixwind.com](https://pixwind.com)
 
 

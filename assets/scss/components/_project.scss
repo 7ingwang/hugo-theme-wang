@@ -180,10 +180,7 @@
   }
   &-single{
     &-section{
-      padding: 250px 0 100px;
-      @include tablet{
-        padding: 100px 0;
-      }
+      padding: 160px 0 80px;
     }
     h1{
       font-size: 48px;
@@ -203,6 +200,8 @@
       color: $text-color-dark;
     }
     h4{
+      margin-top: 24px;
+      font-weight: bold;
       font-size: 16px;
     }
     &-image{
@@ -227,14 +226,35 @@
           margin-bottom: 30px;
         }
       }
-      table{
-        border: 1px solid $gray;
-        th{
-          color: $text-color;
+      blockquote{
+        display: flex;
+        justify-content: space-between;
+        margin: 0;
+        border: 1px solid $line-color;
+        border-width: 1px 0;
+        padding: 32px 0 24px;
+        blockquote{
+          padding: 0;
+          display: block;
+          border: none;
+          h4{
+            margin-top: inherit;
+          }
+          p{
+            margin-bottom: 0;
+          }
+        }
+        @include mobile{
+          flex-wrap: wrap;
+          blockquote{
+            width: 50%;
+          }
         }
       }
     }
     &-action{
+      padding-top: 16px;
+      border-top: 1px solid $line-color;
       a{
         position: relative;
         font-size: 24px;
