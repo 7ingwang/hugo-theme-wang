@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>作品 on Terry Wang</title>
-    <link>http://terry.wang/portfolio/</link>
+    <link>https://terry.wang/portfolio/</link>
     <description>Recent content in 作品 on Terry Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="http://terry.wang/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://terry.wang/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GreatSQL 社区全新改版</title>
-      <link>http://terry.wang/portfolio/greatsql.cn/</link>
+      <link>https://terry.wang/portfolio/greatsql.cn/</link>
       <pubDate>Tue, 16 Aug 2022 15:58:10 +0600</pubDate>
       
-      <guid>http://terry.wang/portfolio/greatsql.cn/</guid>
+      <guid>https://terry.wang/portfolio/greatsql.cn/</guid>
       <description>时间线 2022.05 - 2022.08
   我的角色 UI 设计师
   平台 大屏
@@ -22,10 +22,10 @@
     
     <item>
       <title>宏兴钢铁水处理中心官网平台</title>
-      <link>http://terry.wang/portfolio/hh/</link>
+      <link>https://terry.wang/portfolio/hh/</link>
       <pubDate>Tue, 16 Aug 2022 15:58:10 +0600</pubDate>
       
-      <guid>http://terry.wang/portfolio/hh/</guid>
+      <guid>https://terry.wang/portfolio/hh/</guid>
       <description>时间线 2020.05 - 2020.08
   我的角色 UX / UI 设计师
   平台 大屏
@@ -35,10 +35,10 @@
     
     <item>
       <title>ArtX 小程序电商</title>
-      <link>http://terry.wang/portfolio/artx/</link>
+      <link>https://terry.wang/portfolio/artx/</link>
       <pubDate>Sat, 23 Jul 2022 15:58:10 +0600</pubDate>
       
-      <guid>http://terry.wang/portfolio/artx/</guid>
+      <guid>https://terry.wang/portfolio/artx/</guid>
       <description>时间线 2021.09 - 2020.11
   我的角色 UX / UI 设计师
   平台 小程序
@@ -48,10 +48,10 @@
     
     <item>
       <title>造价数据管理分析系统</title>
-      <link>http://terry.wang/portfolio/zjfx/</link>
+      <link>https://terry.wang/portfolio/zjfx/</link>
       <pubDate>Sat, 23 Jul 2022 15:58:10 +0600</pubDate>
       
-      <guid>http://terry.wang/portfolio/zjfx/</guid>
+      <guid>https://terry.wang/portfolio/zjfx/</guid>
       <description>时间线 2021.08
   我的角色 UI 设计师
   平台 Web
@@ -62,10 +62,10 @@
     
     <item>
       <title>ICONS 图标作品汇总</title>
-      <link>http://terry.wang/portfolio/icons/</link>
+      <link>https://terry.wang/portfolio/icons/</link>
       <pubDate>Tue, 23 Nov 2021 15:58:10 +0600</pubDate>
       
-      <guid>http://terry.wang/portfolio/icons/</guid>
+      <guid>https://terry.wang/portfolio/icons/</guid>
       <description>  时间线 2018-2022
   我的角色 UI 设计师
   平台 Web、小程序
@@ -75,10 +75,10 @@
     
     <item>
       <title>SVG 动画实例</title>
-      <link>http://terry.wang/portfolio/svg-animation-smil/</link>
+      <link>https://terry.wang/portfolio/svg-animation-smil/</link>
       <pubDate>Tue, 23 Nov 2021 15:58:10 +0600</pubDate>
       
-      <guid>http://terry.wang/portfolio/svg-animation-smil/</guid>
+      <guid>https://terry.wang/portfolio/svg-animation-smil/</guid>
       <description>body{ background: #002560 url(/images/projects/SVG-Animation-SMIL/bg.png) no-repeat center bottom; background-size: cover; background-attachment: fixed;} .site-project-single-section{ padding: 160px 0 0;} .site-project-single-section .container{ max-width: 100%; min-width: 100%;} .site-project-single-section .col-lg-8{ max-width: 100%; flex: 0 0 100%;} .</description>
     </item>
     
