@@ -14,7 +14,7 @@ category: ["UX","Web 前端"]
 >> UI 设计师
 >
 >> #### 平台
->> 大屏
+>> Web
 >
 >> #### 工具
 >> Sketch、XMind
