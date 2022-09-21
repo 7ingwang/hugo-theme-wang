@@ -20,13 +20,14 @@ category: ["UI","Web 前端"]
 >> Sketch
 
 ## 项目背景
-eSiLKS-丝路国际智库网络电子工作平台的建设，将促进 SiLKS 成员和伙伴更加紧密开展合作研究、信息交流、知识分享和共谋发展，也是国际社会了解和支持 SiLKS 的窗口和平台。
+eSiLKS ——丝路国际智库网络电子工作平台的建设，将促进 SiLKS 成员和伙伴更加紧密开展合作研究、信息交流、知识分享和共谋发展，也是国际社会了解和支持 SiLKS 的窗口和平台。
 
 ## 设计关键词
 国际化、正式、现代
 
-##
+## 定稿设计图
 
+![Splash](/images/projects/eSiLKS/Splash.png)
 ![Home](/images/projects/eSiLKS/Home2x.png)
 ![Members & Partners](/images/projects/eSiLKS/Members&Partners2x.png)
 ![Activities](/images/projects/eSiLKS/Activities2x.png)
@@ -36,7 +37,9 @@ eSiLKS-丝路国际智库网络电子工作平台的建设，将促进 SiLKS 成
 ![Member & Partner](/images/projects/eSiLKS/Member&Partner2x.png)
 ![About Us](/images/projects/eSiLKS/AboutUs2x.png)
 ![Data](/images/projects/eSiLKS/Data2x.png)
-![Splash](/images/projects/eSiLKS/Splash.png)
+
+## 设计回顾
+![feedback](/images/projects/eSiLKS/feedback.jpg)
 
 ## 总结
 - 快速响应，获取反馈。
