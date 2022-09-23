@@ -1,5 +1,5 @@
 ---
-title: "About Terry Wang"
+title: "关于我"
 name: "Terry"
 photos: ["images/terry3.jpg", ]
 ---
