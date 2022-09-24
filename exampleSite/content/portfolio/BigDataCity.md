@@ -4,7 +4,7 @@ subtitle: ""
 date: 2021-09-16T15:58:10+06:00
 type: portfolio
 pin: showcase
-image: "images/projects/project-thumb-3D.png"
+image: "images/projects/project-thumb-BigDataCity.png"
 category: ["3D","插图"]
 ---
 
@@ -17,7 +17,8 @@ category: ["3D","插图"]
 >> #### 工具
 >> Blender
 
-[![Big Data City](/images/projects/3D/BigDataCity3.png)](/images/projects/3D/BigDataCity3.png)
+[![Big Data City](/images/projects/BigDataCity/BigDataCity3.png)](/images/projects/BigDataCity/BigDataCity3.png)
+![Big Data City](/images/projects/BigDataCity/BigDataCity3.svg)
 
 ## 心得
 - 未来不再是扁平的，而是多维的
