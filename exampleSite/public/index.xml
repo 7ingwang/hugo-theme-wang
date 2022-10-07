@@ -6,7 +6,19 @@
     <description>Recent content on TERRY WANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 15:58:10 +0600</lastBuildDate><atom:link href="https://terry.wang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Sep 2022 15:58:10 +0600</lastBuildDate><atom:link href="https://terry.wang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D 插图——大数据城市</title>
+      <link>https://terry.wang/portfolio/bigdatacity/</link>
+      <pubDate>Fri, 16 Sep 2022 15:58:10 +0600</pubDate>
+      
+      <guid>https://terry.wang/portfolio/bigdatacity/</guid>
+      <description>  时间线 2022
+  角色 练习者
+  工具 Blender
+   其他 3D 图标 指标管理、指标新建、指标地图 预约、随访、点评、登记 心得  未来不再是扁平的，而是多维的 质感、空间感、光效，更能体现氛围 保持一致性  </description>
+    </item>
+    
     <item>
       <title>GreatSQL 社区全新改版</title>
       <link>https://terry.wang/portfolio/greatsql.cn/</link>
@@ -80,18 +92,6 @@
       
       <guid>https://terry.wang/portfolio/svg-animation-smil/</guid>
       <description>body{ background: #002560 url(/images/projects/SVG-Animation-SMIL/bg.png) no-repeat center bottom; background-size: cover; background-attachment: fixed;} .site-project-single-section{ padding: 160px 0 0;} .site-project-single-section .container{ max-width: 100%; min-width: 100%;} .site-project-single-section .col-lg-8{ max-width: 100%; flex: 0 0 100%;} .</description>
-    </item>
-    
-    <item>
-      <title>3D 插图——大数据城市</title>
-      <link>https://terry.wang/portfolio/bigdatacity/</link>
-      <pubDate>Thu, 16 Sep 2021 15:58:10 +0600</pubDate>
-      
-      <guid>https://terry.wang/portfolio/bigdatacity/</guid>
-      <description>  时间线 2022
-  角色 练习者
-  工具 Blender
-   心得  未来不再是扁平的，而是多维的 质感、空间感、光效，更能体现氛围 保持一致性  </description>
     </item>
     
     <item>
