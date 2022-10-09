@@ -1,11 +1,11 @@
 ---
-title: "ICONS 图标作品汇总"
+title: "ICONS 图标作品"
 subtitle: ""
-date: 2021-11-23T15:58:10+06:00
+date: 2022-09-23T15:58:10+06:00
 type: portfolio
 pin: showcase
 image: "images/projects/project-thumb-ICONS.png"
-category: ["ICONS","SVG"]
+category: ["ICONS","SVG", "3D"]
 ---
 
 >> #### 时间线
@@ -15,10 +15,10 @@ category: ["ICONS","SVG"]
 >> UI 设计师
 >
 >> #### 平台
->> Web、小程序
+>> Web
 >
 >> #### 工具
->> Sketch
+>> Blender、Sketch
 
 ![ICONS](/images/projects/ICONS/terry.icons.png)
 
@@ -26,6 +26,10 @@ category: ["ICONS","SVG"]
 - 让品牌思维融入每一个图标
 - 图形隐喻要尽可能恰当，且易识别
 - 确保风格一致、线条一致，色彩一致
+
+## 体会
+- 未来不再是扁平的，而是多维的
+- 质感、空间感、光效，更能体现氛围
 
 
 
